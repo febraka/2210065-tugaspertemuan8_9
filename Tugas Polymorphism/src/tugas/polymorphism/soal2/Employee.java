@@ -16,6 +16,6 @@ public class Employee extends Person {
     @Override
     public String toString() {
         return super.toString() + "\nKantor: " + kantor + "\nGaji: " + gaji + 
-                "\nTanggal Kerja: " + tanggalKerja;
+                "\nTanggal Dipekerjakan: " + tanggalKerja;
     }
 }
